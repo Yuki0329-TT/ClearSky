@@ -59,9 +59,9 @@ UnityRoom上で公開済みです。
 ##  フォルダ構成
 Assets/
 ├── Scripts/
-│ ├── Player/
 │ ├── Enemy/
 │ ├── Item/
+│ ├── Player/
 │ ├── Stage/
 │ ├── System/
 │ └── Utility/
