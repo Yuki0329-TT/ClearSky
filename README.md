@@ -80,10 +80,4 @@ https://unityroom.com/games/takaki_1
 - **DOTween**：アニメーション制御用
 - **Spine 2D**：ボスキャラクターのアニメーション表現
 - **FixedJoystick**：スマートフォン向け入力UI
-
-
-## 補足 / Notes
-- PlayerPrefs によるスコア保存対応  
-- ボスの弾幕切替はHP割合ベースで自動制御  
-- UIボタン操作は `onClick.RemoveAllListeners()` で重複防止  
-- GitHub上のコードには全て日本語コメントを付与し、可読性を重視  
+ 
